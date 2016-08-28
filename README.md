@@ -1,2 +1,2 @@
-# algorithm_cpp
-Basic algorithm realized with cpp
+# basic_algorithm
+Basic algorithm realized with c/c++
